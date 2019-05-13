@@ -4,7 +4,7 @@
 "StatusDesc": "Success"
 },
 "EmployeeInfo":{
-"USER_ID": "rabab",
+"USER_ID": "student",
 "DEPARTMENT_ID": 8543,
 "GENERAL_DEPARTMENT_ID": "113",
 "GENERAL_DEPARTMENT_NAME": "الإدارة العامة لتقنية المعلومات (وكالة الوزارة للخدمات المساندة)",
@@ -22,7 +22,7 @@
 "USER_LAST_NAME_E": "Alhajjaj",
 "USER_POSITION_TITLE": "محلل نظم",
 "USER_RANK": "التوظيف المباشر-117",
-"USER_EMAIL": "fhajjaj@mcit.gov.sa",
+"USER_EMAIL": "rabab@mail.sa",
 "DELEGATE_USER_ID": "",
 "DELEGATE_START_DATE": "",
 "DELEGATE_START_DATE_HIJRAH": "",
